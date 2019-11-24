@@ -9,7 +9,7 @@
 ### Complexity Analysis
 #### Time and Space Complexity
 - [A + B](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/practice-problems/algorithm/a-b-4/)
-
+- [Vowel Recognition](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/practice-problems/algorithm/vowel-game-f1a1047c/)
 ## Data Structures 
 
 ## Algorithms
