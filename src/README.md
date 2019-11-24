@@ -1,7 +1,6 @@
 # Hacker Earth Problems
 
 ## Basic Programming
-
 ### Input/Output
 #### Basics of Input/Output
 - [Tutorial](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/tutorial/)
@@ -10,6 +9,10 @@
 #### Time and Space Complexity
 - [A + B](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/practice-problems/algorithm/a-b-4/)
 - [Vowel Recognition](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/practice-problems/algorithm/vowel-game-f1a1047c/)
+### Implementation
+#### Basic of implementation
+- [Tutorial](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/tutorial/)
+- [Digit Problem](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/digit-problem/)
 ## Data Structures 
 
 ## Algorithms
