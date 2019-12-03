@@ -4,6 +4,7 @@
 ### Input/Output
 #### Basics of Input/Output
 - [Tutorial](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/tutorial/)
+- [Hello](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/hello-32/)
 - [Zoos](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/is-zoo-f6f309e7/)
 - [e-maze-in](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/e-maze-in-1aa4e2ac/)
 - [Bricks Game](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/bricks-game-5140869d/)

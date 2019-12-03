@@ -13,7 +13,7 @@ public class TestClass {
 		int i = 0;
 		int sum = 0;
 		for (char ch: chars) {
-			int num = Character.getNumericValue(ch);
+			int num = Character.getNumericValue(ch) ;
 			sum += ++i * num;
 		}
 		
