@@ -38,6 +38,7 @@
 #### Basic of implementation
 - [Tutorial](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/tutorial/)
 - [Digit Problem](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/digit-problem/)
+- [B. Meet the other](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/meet-the-other/)
 ## Data Structures 
 
 ## Algorithms
