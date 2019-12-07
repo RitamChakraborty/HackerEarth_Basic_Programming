@@ -40,7 +40,7 @@
 - [Tutorial](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/tutorial/)
 - [Digit Problem](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/digit-problem/)
 - [B. Meet the other](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/meet-the-other/)
-- [Fiting circles](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/fitting-circles-c00a5be3/)
+- [Fitting circles](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/fitting-circles-c00a5be3/)
 ## Data Structures 
 
 ## Algorithms
