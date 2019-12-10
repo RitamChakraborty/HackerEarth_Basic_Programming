@@ -42,6 +42,7 @@
 - [B. Meet the other](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/meet-the-other/)
 - [Fitting circles](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/fitting-circles-c00a5be3/)
 - [Dhiman and the Flawed API](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/dhiman-and-the-flawed-api/)
+- [Array Insert](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/array-insert/)
 ## Data Structures 
 
 ## Algorithms
