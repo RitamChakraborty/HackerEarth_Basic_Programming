@@ -44,6 +44,7 @@
 - [Dhiman and the Flawed API](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/dhiman-and-the-flawed-api/)
 - [Array Insert](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/array-insert/)
 - [Print hackerearth](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/print-hackerearth/)
+- [Little Jhool and psychic powers](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/psychic-powers/)
 ## Data Structures 
 
 ## Algorithms
