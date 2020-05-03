@@ -28,6 +28,7 @@ class TestClass {
 				return 0;
 		}
 	}
+	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(new BufferedReader(new InputStreamReader(System.in)));
 		int t = sc.nextInt();
