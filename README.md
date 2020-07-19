@@ -1,8 +1,8 @@
-# Hacker Earth Problems
+# [HackerEarth Basic Programming](https://www.hackerearth.com/practice/basic-programming)
 
-## Basic Programming
-### Input/Output
-#### Basics of Input/Output
+## Input/Output
+
+### Basics of Input/Output
 - [Tutorial](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/tutorial/)
 - [Hello](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/hello-32/)
 - [Zoos](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/is-zoo-f6f309e7/)
@@ -31,12 +31,16 @@
 - [Back to School](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/back-to-school-1/)
 - [Best Index](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/best-index-1-45a2f8ff/)
 - [Seven-Segment Display](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/seven-segment-display-nov-easy-e7f87ce0/)
-### Complexity Analysis
-#### Time and Space Complexity
+
+## Complexity Analysis
+
+### Time and Space Complexity
 - [A + B](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/practice-problems/algorithm/a-b-4/)
 - [Vowel Recognition](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/practice-problems/algorithm/vowel-game-f1a1047c/)
-### Implementation
-#### Basic of implementation
+
+## Implementation
+
+### Basic of implementation
 - [Tutorial](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/tutorial/)
 - [Digit Problem](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/digit-problem/)
 - [B. Meet the other](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/meet-the-other/)
@@ -53,8 +57,3 @@
 - [Find the Pattern](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/find-the-pattern-6/)
 - [Min-Max](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/min-max-3/)
 - [Jarvis and Seven Segment](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/jarvis-and-seven-segments-1/)
-## Data Structures 
-
-## Algorithms
-
-## Math
